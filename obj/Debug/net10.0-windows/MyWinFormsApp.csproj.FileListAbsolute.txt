@@ -1,0 +1,14 @@
+E:\Code\dotnet\sth\MyWinFormsApp\bin\Debug\net10.0-windows\MyWinFormsApp.exe
+E:\Code\dotnet\sth\MyWinFormsApp\bin\Debug\net10.0-windows\MyWinFormsApp.deps.json
+E:\Code\dotnet\sth\MyWinFormsApp\bin\Debug\net10.0-windows\MyWinFormsApp.runtimeconfig.json
+E:\Code\dotnet\sth\MyWinFormsApp\bin\Debug\net10.0-windows\MyWinFormsApp.dll
+E:\Code\dotnet\sth\MyWinFormsApp\bin\Debug\net10.0-windows\MyWinFormsApp.pdb
+E:\Code\dotnet\sth\MyWinFormsApp\obj\Debug\net10.0-windows\MyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\dotnet\sth\MyWinFormsApp\obj\Debug\net10.0-windows\MyWinFormsApp.AssemblyInfoInputs.cache
+E:\Code\dotnet\sth\MyWinFormsApp\obj\Debug\net10.0-windows\MyWinFormsApp.AssemblyInfo.cs
+E:\Code\dotnet\sth\MyWinFormsApp\obj\Debug\net10.0-windows\MyWinFormsApp.csproj.CoreCompileInputs.cache
+E:\Code\dotnet\sth\MyWinFormsApp\obj\Debug\net10.0-windows\MyWinFormsApp.dll
+E:\Code\dotnet\sth\MyWinFormsApp\obj\Debug\net10.0-windows\refint\MyWinFormsApp.dll
+E:\Code\dotnet\sth\MyWinFormsApp\obj\Debug\net10.0-windows\MyWinFormsApp.pdb
+E:\Code\dotnet\sth\MyWinFormsApp\obj\Debug\net10.0-windows\MyWinFormsApp.genruntimeconfig.cache
+E:\Code\dotnet\sth\MyWinFormsApp\obj\Debug\net10.0-windows\ref\MyWinFormsApp.dll
